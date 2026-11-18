@@ -1,0 +1,12 @@
+# 编译出来的程序（放到 GitHub Releases，不放进仓库）
+*.exe
+*.pdb
+
+# 旧版本和本地备份
+old_versions/
+meta_fix_backup_*/
+
+# 收款码原图（仓库里用 donate_qr.png）
+打赏码.png
+
+release/
